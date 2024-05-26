@@ -1,14 +1,11 @@
 # Variety nuker
 Variety, fastest nuker on discord written in py.
-##📍Information
+
+## Information
 
     • When I was working on the following project at a friend's place I forgot to log out of my github account and he put malware in my nuker, sorry in advance for any problems, but I fixed it.  -Versayy.
 
 
-
-    
-
-##
 
 
 
