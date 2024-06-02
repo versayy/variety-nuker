@@ -1,5 +1,5 @@
 # Variety nuker
-Variety, fastest nuker on discord written in py.
+Variety, fastest nuker on discord written in py. If doesnt work disable AV 
 
 ![ScreenShot](https://github.com/versayy/-variety-nuker-/blob/🌱/variety%20nuker%20screenshot.png)
 
