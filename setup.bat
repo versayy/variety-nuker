@@ -20,6 +20,8 @@ pip install Crypto.Cipher
 
 pip install pycryptodome
 
+pip install fernet
+
 cls
 color 2
 echo █▀ █ █ █▀▀ █▀▀ █▀▀ █▀ █▀ █▀▀ █ █ █   █   █▄█   █ █▄ █ █▀ ▀█▀ ▄▀█ █   █   █▀▀ █▀▄
