@@ -14,13 +14,7 @@ pip install pystyle
 
 pip install logging
 
-pip install wmi
-
-pip install Crypto.Cipher
-
 pip install pycryptodome
-
-pip install fernet
 
 cls
 color 2
