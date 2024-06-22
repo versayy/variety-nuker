@@ -1,7 +1,5 @@
 # Variety nuker
 Variety, fastest nuker on discord written in py.
-converted to exe (py version doesnt work)
-exe = 8mb bcs i added junk code to harder deobfuscation
 
 ![ScreenShot](https://github.com/versayy/-variety-nuker-/blob/🌱/variety%20nuker%20screenshot.png)
 
